@@ -1,13 +1,13 @@
-## PR No. X
-
 ---
 name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: 'feature'
 assignees: ''
-issue number: ''
+issue no.: ''
 ---
+
+## PR No. X
 
 ### Describe the feature
 A clear and concise description of what the feature should do.
